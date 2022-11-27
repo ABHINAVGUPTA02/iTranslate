@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499436328509",
+    "project_id": "itranslate-4e94f",
+    "storage_bucket": "itranslate-4e94f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499436328509:android:ba43f1926667760aa3fc54",
+        "android_client_info": {
+          "package_name": "com.mini_project.thesilentbell.itranslate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499436328509-ei99u0j9ilhobo8495i9qecun2i6i68p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_LgmxpMeFr51xSBSia5o_xidNLh_kynY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499436328509-ei99u0j9ilhobo8495i9qecun2i6i68p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
